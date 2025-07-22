@@ -1,0 +1,92 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.div1{
+
+	
+	background-color: #8080ff;
+}
+.div1 img{
+	width: 70px;
+	margin-left: 20px;
+}
+.div1 h2{
+     font-size: 20px;
+     padding-right: 50px;
+	display: inline-block;
+	float: right;
+	margin-left: 90px;
+
+
+}
+.div2 div img{
+	padding-left: 80px;
+	margin-right: 50px;
+	float: left;
+	width: 370px;
+	height: 170px;
+
+}
+
+
+
+}
+.div2 p{
+	padding-left: 50px;
+     font-size: 20px;
+	display: inline-block;
+	float: left;
+	width: 70px;
+	height: 170px;
+	
+}
+.class1{
+	padding-left: 50px;
+	margin: 80px;
+}
+.div5{
+	width: 100%;
+	display: inline-block;
+	border: 2px solid red;
+
+}
+.div6{
+	font-size: 30px;
+	padding-top: 20px;
+	text-align: center;
+	background-color: blue;
+	float: left;
+	width: 33%;
+	height: 100px;
+	
+
+
+}
+.div7{
+	font-size: 30px;
+	padding-top: 20px;
+	text-align: center;
+	background-color: green;
+	float: left;
+	width: 33%;
+	height: 100px;
+	
+
+	
+}
+.div8{
+	font-size: 30px;
+	padding-top: 20px;
+	text-align: center;
+	background-color: yellow;
+	float: left;
+	width: 33%;
+	height: 100px;
+
+
+	
+}
+.name2{
+	margin-top: 90px;
+}
